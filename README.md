@@ -2,7 +2,7 @@
 
 Also download these files from this address : https://pjreddie.com/darknet/yolo/
 - coco.names
-- yolov3.cgf
+- yolov3.cfg
 - yolov3.weights
 
 Place them in the data folder.
